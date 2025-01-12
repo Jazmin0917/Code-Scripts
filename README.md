@@ -6,9 +6,9 @@ There are two methods to easily view and edit Jupyter notebooks:
 
 ## Method 1: Use GitHub Dev
 
-If the notebook is hosted on GitHub, you can quickly open it in VSCode's web version. For example, if the notebook is located at this URL: [https://github.com/AU-AIST-2110-Spring25-SectionA/Code-Scripts/blob/main/Week_02.ipynb], 
+If the notebook is hosted on GitHub, you can quickly open it in VSCode's web version. For example, if the notebook is located at this URL: https://github.com/AU-AIST-2110-Spring25-SectionA/Code-Scripts/blob/main/Week_02.ipynb, 
 
-you can simply change `github.com` to `github.dev`, like this: [https://github.com/AU-AIST-2110-Spring25-SectionA/Code-Scripts/blob/main/Week_02.ipynb]([https://github.dev/AU-AIST-2110/InClass-Examples/blob/main/Week01-TheBasics/test.ipynb].
+you can simply change `github.com` to `github.dev`, like this: https://github.dev/AU-AIST-2110-Spring25-SectionA/Code-Scripts/blob/main/Week_02.ipynb
 
 This will load the notebook in VSCode Web. To enable Jupyter capabilities, you'll need to connect VSCode to a Codespace. 
 
